@@ -1,4 +1,4 @@
-<h1 align='center'> Next Level Week by </h1> <h1 align='center'><img src='assets/rocketseat.svg' alt='Logo Rocketseat'> </h1>
+<h1 align='center'> Next Level Week by <img src='assets/rocketseat.svg' alt='Logo Rocketseat'> </h1>
 <img src="assets/logo.svg" alt="Logo Ecoleta" />
 <p>
 &emsp;Projeto Web realizado durante a Next Level Week, bootcamp realizado pela Rocketseat. A plataforma consiste em um ambiente para registrar pontos de coleta de materiais reciclaveis. 
